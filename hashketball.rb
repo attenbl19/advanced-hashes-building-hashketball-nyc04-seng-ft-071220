@@ -4,14 +4,14 @@ def game_hash
      {
          home: {
              team_name: "Brooklyn Nets",
-             colors: [Black, White],
+             colors: ["Black", "White"],
              players: [
                  {
-                    Player Name: "Alan Anderson",
-                    Number: 0,
-                    Shoe: 16,
-                    Points: 22,
-                    Rebounds: 12,
+                    player_name: "Alan Anderson",
+                    number: 0,
+                    shoe: 16,
+                    points: 22,
+                    rebounds: 12,
                     Assists: 12,
                     Steals: 3,
                     Blocks: 1,
