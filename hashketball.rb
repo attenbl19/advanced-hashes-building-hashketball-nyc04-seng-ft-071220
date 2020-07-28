@@ -1,3 +1,4 @@
+#Write your code here!
 require pry
 
 def game_hash
@@ -12,54 +13,54 @@ def game_hash
                     shoe: 16,
                     points: 22,
                     rebounds: 12,
-                    Assists: 12,
-                    Steals: 3,
-                    Blocks: 1,
-                    Slam Dunks: 1
+                    assists: 12,
+                    steals: 3,
+                    blocks: 1,
+                    slam_dunks: 1
                  },
                  {
-                    Player Name: "Reggie Evans",
-                    Number: 30,
-                    Shoe: 14,
-                    Points: 12,
-                    Rebounds: 12,
-                    Assists: 12,
-                    Steals: 12,
-                    Blocks: 12,
-                    Slam Dunks: 7
+                    player_name: "Reggie Evans",
+                    number: 30,
+                    shoe: 14,
+                    points: 12,
+                    rebounds: 12,
+                    assists: 12,
+                    steals: 12,
+                    blocks: 12,
+                    slam_dunks: 7
                  },
                  {
-                    Player Name: "Brook Lopez",
-                    Number: 11,
-                    Shoe: 17,
-                    Points: 17,
-                    Rebounds: 19,
-                    Assists: 10,
-                    Steals: 3,
-                    Blocks: 1,
-                    Slam Dunks: 15
+                    player_name: "Brook Lopez",
+                    number: 11,
+                    shoe: 17,
+                    points: 17,
+                    rebounds: 19,
+                    assists: 10,
+                    steals: 3,
+                    blocks: 1,
+                    slam_dunks: 15
                  },
                  {
-                    Player Name: "Mason Plumlee",
-                    Number: 1,
-                    Shoe: 19,
-                    Points: 26,
-                    Rebounds: 11,
-                    Assists: 6,
-                    Steals: 3,
-                    Blocks: 8,
-                    Slam Dunks: 5
+                    player_name: "Mason Plumlee",
+                    number: 1,
+                    shoe: 19,
+                    points: 26,
+                    rebounds: 11,
+                    assists: 6,
+                    steals: 3,
+                    blocks: 8,
+                    slam_dunks: 5
                  },
                  {
-                    Player Name: "Jason Terry",
-                    Number: 31,
-                    Shoe: 15,
-                    Points: 19,
-                    Rebounds: 2,
-                    Assists: 2,
-                    Steals: 4,
-                    Blocks: 11,
-                    Slam Dunks: 1
+                    player_name: "Jason Terry",
+                    number: 31,
+                    shoe: 15,
+                    points: 19,
+                    rebounds: 2,
+                    assists: 2,
+                    steals: 4,
+                    blocks: 11,
+                    slam_dunks: 1
                  }
                 ],
              },
@@ -68,62 +69,62 @@ def game_hash
 
         away: {
             team_name: "Charlotte Hornets",
-            colors: [Turquoise, Purple],
+            colors: ["Turquoise", "Purple"],
             players: [
                 {
-                    Player Name: "Jeff Adrien",
-                    Number: 4,
-                    Shoe: 18,
-                    Points: 10,
-                    Rebounds: 1,
-                    Assists: 1,
-                    Steals: 2,
-                    Blocks: 7,
-                    Slam Dunks: 2
+                  player_name: "Jeff Adrien",
+                    number: 4,
+                    shoe: 18,
+                    points: 10,
+                    rebounds: 1,
+                    assists: 1,
+                    steals: 2,
+                    blocks: 7,
+                    slam_dunks: 2
                   },
                   {
-                    Player Name: "Bismack Biyombo",
-                    Number: 0,
-                    Shoe: 16,
-                    Points: 12,
-                    Rebounds: 4,
-                    Assists: 7,
-                    Steals: 22,
-                    Blocks: 15,
-                    Slam Dunks: 10
+                    player_name: "Bismack Biyombo",
+                    number: 0,
+                    shoe: 16,
+                    points: 12,
+                    rebounds: 4,
+                    assists: 7,
+                    steals: 22,
+                    blocks: 15,
+                    slam_dunks: 10
                   },
                   {
-                    Player Name: "DeSagna Diop",
-                    Number: 2,
-                    Shoe: 14,
-                    Points: 24,
-                    Rebounds: 12,
-                    Assists: 12,
-                    Steals: 4,
-                    Blocks: 5,
-                    Slam Dunks: 5
+                    player_name: "DeSagna Diop",
+                    number: 2,
+                    shoe: 14,
+                    points: 24,
+                    rebounds: 12,
+                    assists: 12,
+                    steals: 4,
+                    blocks: 5,
+                    slam_dunks: 5
                   },
                   {
-                    Player Name: "Ben Gordon",
-                    Number: 8,
-                    Shoe: 15,
-                    Points: 33,
-                    Rebounds: 3,
-                    Assists: 2,
-                    Steals: 1,
-                    Blocks: 1,
-                    Slam Dunks: 0
+                    player_name: "Ben Gordon",
+                    number: 8,
+                    shoe: 15,
+                    points: 33,
+                    rebounds: 3,
+                    assists: 2,
+                    steals: 1,
+                    blocks: 1,
+                    slam_dunks: 0
                   },
                   {
-                    Player Name: "Kemba Walker",
-                    Number: 33,
-                    Shoe: 15,
-                    Points: 6,
-                    Rebounds: 12,
-                    Assists: 12,
-                    Steals: 7,
-                    Blocks: 5,
-                    Slam Dunks: 12
+                    player_name: "Kemba Walker",
+                    number: 33,
+                    shoe: 15,
+                    points: 6,
+                    rebounds: 12,
+                    assists: 12,
+                    steals: 7,
+                    blocks: 5,
+                    slam_dunks: 12
                   }
 
                 ]
@@ -132,4 +133,3 @@ def game_hash
 
 }
 end
- Write your code here!
